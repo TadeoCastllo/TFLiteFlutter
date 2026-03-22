@@ -53,12 +53,12 @@ Quien clone este proyecto deberá obtener estos archivos descargándolos o gener
 2. `labels.txt` (Listado de clases o categorías que reconoce el modelo).
 
 Asegúrate de que la estructura luzca de esta manera antes de compilar:
-\`\`\`text
+```text
 assets/
  └── models/
      ├── labels.txt
      └── mobilenet_v1_1.0_224.tflite
-\`\`\`
+```
 
 ## Instalación y Ejecución
 
